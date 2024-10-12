@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wwdc24.swiftgg.team/cn</loc>
+    <loc>https://letsvisionos.swiftgg.team/</loc>
   </url>
   <url>
-    <loc>https://wwdc24.swiftgg.team/</loc>
+    <loc>https://letsvisionos.swiftgg.team/old</loc>
+  </url>
+  <url>
+    <loc>https://letsvisionos.swiftgg.team/404</loc>
   </url>
 </urlset>

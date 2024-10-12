@@ -2,11 +2,11 @@
 
 # 定义第一个要替换的字符串及其替换内容
 OLD_STRING_1="My Framer Site"
-NEW_STRING_1="WWDC24.playground"
+NEW_STRING_1="Let's visionOS 2025"
 
 # 定义第二个要替换的字符串及其替换内容
-OLD_STRING_2="wwdc24.framer.ai"
-NEW_STRING_2="wwdc24.swiftgg.team"
+OLD_STRING_2="letsvisionos25.framer.ai"
+NEW_STRING_2="letsvisionos.swiftgg.team"
 
 # 定义第三个要替换的字符串及其替换内容
 OLD_STRING_3="home-zh"
@@ -61,9 +61,9 @@ fi
 CN_INDEX="cn/index.html"
 if [ -f "$CN_INDEX" ]; then
     sed -i '' "/<meta property=\"og:description\" content=\"Made with love - SwiftGG\">/a\\
-<meta property=\"og:image\" content=\"https://wwdc24.swiftgg.team/image_cn.jpg\" />" "$CN_INDEX"
+<meta property=\"og:image\" content=\"https://letsvisionos.swiftgg.team/image_cn.jpg\" />" "$CN_INDEX"
     sed -i '' "/<meta name=\"twitter:description\" content=\"Made with love - SwiftGG\">/a\\
-<meta name=\"twitter:image\" content=\"https://wwdc24.swiftgg.team/image_cn.jpg\" />" "$CN_INDEX"
+<meta name=\"twitter:image\" content=\"https://letsvisionos.swiftgg.team/image_cn.jpg\" />" "$CN_INDEX"
     echo "Added new meta tags to $CN_INDEX"
 fi
 
@@ -71,9 +71,9 @@ fi
 EN_INDEX="en/index.html"
 if [ -f "$EN_INDEX" ]; then
     sed -i '' "/<meta property=\"og:description\" content=\"Made with love - SwiftGG\">/a\\
-<meta property=\"og:image\" content=\"https://wwdc24.swiftgg.team/image_en.jpg\" />" "$EN_INDEX"
+<meta property=\"og:image\" content=\"https://letsvisionos.swiftgg.team/image_en.jpg\" />" "$EN_INDEX"
     sed -i '' "/<meta name=\"twitter:description\" content=\"Made with love - SwiftGG\">/a\\
-<meta name=\"twitter:image\" content=\"https://wwdc24.swiftgg.team/image_en.jpg\" />" "$EN_INDEX"
+<meta name=\"twitter:image\" content=\"https://letsvisionos.swiftgg.team/image_en.jpg\" />" "$EN_INDEX"
     echo "Added new meta tags to $EN_INDEX"
 fi
 
