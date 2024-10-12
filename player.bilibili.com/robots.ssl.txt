@@ -1,0 +1,9 @@
+# 禁止爬取已废弃的文件
+User-agent: *
+Disallow: /blackboard/
+Disallow: /live/
+Disallow: /main/
+Disallow: /tools/
+Disallow: /crossdomain.xml
+Disallow: /gameplayer.html
+Disallow: /html5player.html

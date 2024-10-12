@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: *page=*
+Disallow: /_next/static/chunks/
+Allow: /
+
+Sitemap: https://www.moloco.com/sitemap.xml

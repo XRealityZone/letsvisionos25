@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://xreality.zone/sitemap.xml
+Sitemap: https://xreality.zone/sitemap-index.xml
