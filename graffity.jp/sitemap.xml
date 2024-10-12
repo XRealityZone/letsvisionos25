@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap><loc>https://graffity.jp/sitemap-static.xml</loc></sitemap>
+<sitemap><loc>https://graffity.jp/sitemap-dynamic/sitemap-dynamic-news-s-category-s--c-slug.xml</loc></sitemap>
+<sitemap><loc>https://graffity.jp/sitemap-dynamic/sitemap-dynamic-news-s--c-slug.xml</loc></sitemap>
+<sitemap><loc>https://graffity.jp/sitemap-dynamic/sitemap-dynamic-works-s--c-slug.xml</loc></sitemap>
+<sitemap><loc>https://graffity.jp/sitemap-dynamic/sitemap-dynamic-ar_studio-s-achieves-s--c-slug-1.xml</loc></sitemap>
+<sitemap><loc>https://graffity.jp/sitemap-dynamic/sitemap-dynamic-spatial_lab-s--c-slug.xml</loc></sitemap>
+</sitemapindex>

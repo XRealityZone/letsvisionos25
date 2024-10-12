@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://letsvisionos25.framer.media/sitemap.xml

@@ -1,0 +1,11 @@
+User-agent: * 
+Disallow: /scripts 
+Disallow: /public 
+Disallow: /css/ 
+Disallow: /images/ 
+Disallow: /content/ 
+Disallow: /js/ 
+Disallow: /admin 
+Disallow: /config 
+Disallow: /classes 
+Disallow: /log

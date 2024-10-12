@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /web/site/*
+Disallow: /*?doAsUserId=*
+Disallow: /*&doAsUserId=*
+Disallow: /*&p_p_state=maximized&print*

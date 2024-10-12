@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /about
+Allow: /humanities
+Allow: /science
+Allow: /code
+Allow: /eloquence
+Allow: /chess
+Allow: /naturalScience
+Allow: /create
+Allow: /art
+Allow: /life
+Allow: /box
+Allow: /d
+Disallow: /select-course
+Disallow: /course-detail/
+Disallow: /t/
+Disallow: /index/
+Disallow: /course-center/
+Disallow: /search/
+Disallow: /StudentFeedback/
+Disallow: /businessLicense/
+

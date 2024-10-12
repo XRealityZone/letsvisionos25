@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /account/
+Disallow: /xmind/
+Allow: /
+Sitemap: https://xmind.cn/sitemap.xml
+Sitemap: https://xmind.app/sitemap.xml

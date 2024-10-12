@@ -1,0 +1,15 @@
+User-Agent: *
+Allow: /
+
+User-Agent: *
+Allow: /
+Allow: /zh/
+Allow: /en/
+Disallow: /api/
+Disallow: */private/*
+Disallow: /_next/*
+Disallow: *.json
+
+Host: https://focusfour.app
+Sitemap: https://focusfour.app/sitemap.xml
+Sitemap: https://docs.focusfour.app/sitemap.xml
